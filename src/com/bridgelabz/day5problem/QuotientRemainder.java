@@ -1,3 +1,4 @@
+package com.bridgelabz.day5problem;
 import java.util.Scanner;
 
 public class QuotientRemainder {
